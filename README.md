@@ -1,5 +1,17 @@
 # Fingerprint-Identification-System
 
+<img src="Screenshots/screen1.png"  height="400" />
+
+<hr>
+
+<img src="Screenshots/screen2.png"  height="400" />
+
+<hr>
+
+<img src="Screenshots/screen3.png"  height="400" />
+
+<hr>
+
 <strong> Python Editor Used:  </strong>
 <ul>
  	<li> IDLE </li>
