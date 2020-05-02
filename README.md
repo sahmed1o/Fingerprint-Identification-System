@@ -27,11 +27,5 @@ https://www.python.org/downloads/release/python-364/
 <ul>
  	<li> OpenCV (pip3 install opencv-python) 	</li>
  	<li> numpy (pip install numpy) 	</li>
- 	<li> Pillow (pip install pillow) 	</li>
- 	<li> PyQT5 (pip install pyqt5) 	</li>
- 	<li> CMAKE (pip install cmake - this is required to install dlib) 	</li>
- 	<li> DLIB (pip install dlib) 	</li>
- 	<li> DateTime (pip install datetime) 	</li>
- <li> <b>(X) SIFT (pip install opencv-contrib-python) - REMOVED, the library is patented so its no longer used for Iris Matching but opencv-contrib-python has other useful libraries so its worth installing
-	</b> </li>
+ 	<li> matplotlib (pip install matplotlib) 	</li>
 </ul>
