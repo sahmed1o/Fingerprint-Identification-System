@@ -1,6 +1,8 @@
 # Fingerprint-Identification-System
-
+[TEXT]
 <img src="Screenshots/screen.png"  height="400" />
+
+[TEXT]
 <img src="Screenshots/screen3.png"  height="400" />
 
 <hr>
