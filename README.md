@@ -5,7 +5,7 @@ A fingerprint identification system that goes through a process of filtering to 
 
 <hr>
 
-<strong> Processes of removing noise before running the match: </strong>
+<strong> Process of removing noise before running the match with feature pattern matching: </strong>
 <ul>
  	<li> Contrasting 	</li>
  	<li> Binarization	</li>
