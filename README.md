@@ -48,6 +48,8 @@ https://www.python.org/downloads/release/python-364/
  	<li> matplotlib (pip install matplotlib) 	</li>
 </ul>
 
+<hr>
+
 # Fingerprint Data Source Files
 
 UPEK Fingerprint Data Source:
