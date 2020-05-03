@@ -3,6 +3,8 @@ A fingerprint identification system that goes through a process of filtering to 
 
 <img src="Screenshots/screen.png"  height="400" />
 
+<hr>
+
 <strong> Processes of removing noise before running the match: </strong>
 <ul>
  	<li> Contrasting 	</li>
