@@ -1,5 +1,6 @@
 # Fingerprint-Identification-System
-[TEXT]
+A fingerprint identification system that goes through a process of filtering to dermine if the users fingerprint
+matches the fingerprint registered. 
 <img src="Screenshots/screen.png"  height="400" />
 
 [TEXT]
