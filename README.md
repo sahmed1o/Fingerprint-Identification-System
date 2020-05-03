@@ -1,6 +1,5 @@
 # Fingerprint-Identification-System
-A fingerprint identification system that goes through a process of filtering to dermine if the users fingerprint
-matches the fingerprint registered. 
+A fingerprint identification system that goes through a process of filtering to dermine if the users fingerprint matches the fingerprint registered. The captured fingerprint is processed through filtering techniques to remove noise from the captured image. The final result of the print after removing noise is then feature matched with the registered fingerprint to determine if they are the same.
 <img src="Screenshots/screen.png"  height="400" />
 
 [TEXT]
