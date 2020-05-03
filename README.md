@@ -7,11 +7,11 @@ A fingerprint identification system that goes through a process of filtering, to
 
 # Process of removing noise before running the match with feature pattern matching: 
 <ul>
- 	<li> Contrast 	</li>
+ 	<li> Contrast Filtering	</li>
  	<li> Binarization	</li>
- 	<li> Thinning through erosionr 	</li>
+ 	<li> Thinning through Image Erosion 	</li>
  	<li> Highlighting 	</li>
- 	<li> Feature point detection 	</li>
+ 	<li> Feature Point Detection 	</li>
 </ul>
 
 <img src="Screenshots/screen3.png"  height="400" />
